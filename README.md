@@ -1,5 +1,4 @@
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ridha Ansar&theme=" alt="Ridha Ansar" /></a> </p>
 
 - 🔭 I’m currently working on **PHP, Java, LARAVEL**
 - 👯 Interested **in Web Designing**
