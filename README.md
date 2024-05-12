@@ -2,9 +2,9 @@
 <h3 align="center">Designing digital experiences with passion</h3>
 
 
-- 🔭 I’m currently working on **PYTHON**
+- 🔭 I’m currently working on **AIML**
 
-- 🌱 I’m currently learning **UI UX design**
+- 🌱 I’m currently learning **Python**
 
 - 🤝 I’m interested in **Web Designing**
 
