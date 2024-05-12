@@ -6,13 +6,11 @@
 
 - 🌱 I’m currently learning **Machine Learning & Data Science**
 
-- 📫 How to reach me **ansarridha6@gmail.com**
+- 📫 How to reach me **ansarridha6@gmail.com** **www.linkedin.com/in/ridha-ansar-38b815255**
 
-<h3 align="left">Connect with me: 
-<a href="www.linkedin.com/in/ridha-ansar-38b815255" >
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  </h3>
+
+
+
 <p align="left">
 </p>
 
