@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **ansarridha6@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: www.linkedin.com/in/ridha-ansar-38b815255</h3>
 <p align="left">
 </p>
 
