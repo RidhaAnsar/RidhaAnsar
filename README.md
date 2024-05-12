@@ -9,7 +9,7 @@
 - 📫 How to reach me **ansarridha6@gmail.com**
 
 <h3 align="left">Connect with me: 
-<a href="https://linkedin.com/in/RidhaAnsar" >
+<a href="www.linkedin.com/in/ridha-ansar-38b815255" >
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   </h3>
