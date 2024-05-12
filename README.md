@@ -2,11 +2,9 @@
 <h3 align="center">Designing digital experiences with passion</h3>
 
 
-- 🔭 I’m currently working on **AIML**
+- 🔭 I’m currently working on **PYTHON**
 
-- 🌱 I’m currently learning **Python**
-
-- 🤝 I’m interested in **Web Designing**
+- 🌱 I’m currently learning **Machine Learning & Data Science**
 
 - 📫 How to reach me **ansarridha6@gmail.com**
 
